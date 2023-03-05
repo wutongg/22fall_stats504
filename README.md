@@ -1,5 +1,5 @@
 # 22fall_stats504
-This is the repository for UM STATS 504 capstone projects:
+This is the repository for UM STATS 504 capstone projects in Python and R:
 
 1. Using GLMs to [analyze the price of laptops from eBay][1]
   * Our client didn't have any quantitative background and is a visual person.
