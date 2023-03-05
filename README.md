@@ -30,7 +30,7 @@ This is the repository for UM STATS 504 capstone projects:
 6. [Analysis on Graduation Rates][6]
   * Our client was the director of admissions at Polytechnic Institute of Portalegre in Portugal.
   * Collected data related to student enrollment in undergraduate courses between 2008 to 2019.
-  * Determined and quanlitied the causal effect of students’ grades required for admissions on graduation.
+  * Determined and quanlitied the causal effect of students’ grades required for admissions on graduation (casual inference).
   * Investigated student features and other external factors, such as age at enrollment and current inflation rates, that possibly contribute to varying admission grades.
 
 [1]: https://github.com/wutongg/22fall_stats504/blob/main/Assignment1.pdf 
